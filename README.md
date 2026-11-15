@@ -1,3 +1,29 @@
+# Cap
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+Open source Loom alternative. Beautiful, shareable screen recordings.
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+开源 Loom 替代品，生成美观可分享的录屏。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 <p align="center">
 	<img width="150" height="150" src="https://github.com/CapSoftware/Cap/blob/main/apps/desktop-gpui/icons/Square310x310Logo.png" alt="Cap logo">
 </p>
